@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Imbue Dot Network Http Package",
   "bin": {
-    "dot-http": "./bin/http"
+    "dot-http": "./bin/dot"
   },
   "scripts": {
     "postinstall": "npx tsc",
